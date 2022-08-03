@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Onest';
+    font-weight: normal;
+    font-style: normal;
+    src: url(/assets/fonts/onest/regular.woff) format("woff"), url(/assets/fonts/onest/regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: 'Onest';
+    font-weight: bold;
+    font-style: normal;
+    src: url(/assets/fonts/onest/bold.woff) format("woff"), url(/assets/fonts/onest/bold.ttf) format("truetype");
+}
